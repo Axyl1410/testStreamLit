@@ -1,4 +1,4 @@
-﻿absl-py==2.1.0
+absl-py==2.1.0
 altair==5.3.0
 attrs==23.2.0
 azure-cognitiveservices-speech==1.38.0
@@ -6,7 +6,6 @@ beautifulsoup4==4.12.3
 blinker==1.8.2
 cachetools==5.4.0
 certifi==2024.7.4
-cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.6
 colorama==0.4.6
@@ -15,11 +14,9 @@ cycler
 deep-translator==1.11.4
 filelock==3.15.4
 flatbuffers==24.3.25
-fonttools 
 fsspec==2024.6.1
 gitdb==4.0.11
 GitPython==3.1.43
-setuptools
 idna==3.7
 jax==0.4.30
 jaxlib==0.4.30
@@ -27,7 +24,6 @@ Jinja2==3.1.4
 joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
-kiwisolver 
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib 
@@ -39,7 +35,6 @@ networkx==3.3
 numpy==1.24.4
 opencv-contrib-python==4.8.0.74
 opt-einsum==3.3.0
-packaging 
 pandas==2.2.2
 pillow 
 ply==3.11
@@ -48,10 +43,7 @@ pyarrow==17.0.0
 pycparser==2.22
 pydeck==0.9.1
 Pygments==2.18.0
-pyparsing 
 PyQt5==5.15.10
-python-dateutil 
-pytz==2024.1
 referencing==0.35.1
 requests==2.31.0
 rich==13.7.1
@@ -59,20 +51,16 @@ rpds-py==0.19.1
 scikit-learn==1.5.1
 scipy==1.14.0
 sign_language_translator==0.7.3
-six 
 smmap==5.0.1
 sounddevice==0.4.7
 soupsieve==2.5
 streamlit==1.37.0
 sympy==1.13.1
 tenacity==8.5.0
-threadpoolctl==3.5.0
 toml==0.10.2
 toolz==0.12.1
 torch==2.1.2
-tornado 
 tqdm==4.65.0
-typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
 watchdog==4.0.1
