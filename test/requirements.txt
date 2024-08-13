@@ -50,6 +50,7 @@ Pygments==2.18.0
 pyparsing 
 PyQt5==5.15.10
 python-dateutil 
+python-distutils
 pytz==2024.1
 referencing==0.35.1
 requests==2.31.0
