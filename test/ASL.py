@@ -5,7 +5,7 @@ import time
 
 # Function to display sign language images
 def display_images(text):
-    img_dir = "D:/test1/NCKH4/test/images/ASL"
+    img_dir = "/images/ASL"
     image_pos = st.empty()
 
     for char in text:
