@@ -31,7 +31,7 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib 
 mdurl==0.1.2
-mediapipe==0.10.11
+mediapipe==0.10.13
 mkl-fft 
 mkl-random 
 mkl-service==2.4.0
